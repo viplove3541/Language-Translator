@@ -126,15 +126,6 @@
     background: steelblue;
   }
 
-  footer{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: auto;
-    width: 100vw;
-    color:gray;
-}
 
 
   @media (max-width: 660px){
